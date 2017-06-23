@@ -69,27 +69,27 @@ _atrk_opts = { atrk_acct:"Nx8Wj1a0CM00Ux", domain:"watchitfree.me",dynamic: true
             <div class="thumbnail-display">
                 <li>
                 <div id="thumbnail">
-                    <a href="series.php?id=modern%20family" title="Modern Family"><img class="hoverable" id="js-img-lazy" alt="Modern Family" src="resources/images/modern_family.jpg"></a>
+                    <a href="movie.php?id=The+Avengers" title="The Avengers"><img class="hoverable" id="js-img-lazy" alt="The Avengers" src="resources/images/the_avengers.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail">
-                    <a href="series.php?id=game%20of%20thrones" title="Game Of Thrones"><img class="hoverable" id="js-img-lazy" alt="Game Of Thrones" src="resources/images/game_of_thrones.jpg"></a>
+                    <a href="movie.php?id=127+Hours" title="127 Hours"><img class="hoverable" id="js-img-lazy" alt="127 Hours" src="resources/images/127_hours.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail">
-                    <a href="series.php?id=grey%27s%20anatomy" title="Grey's Anatomy"><img class="hoverable" id="js-img-lazy" alt="Grey's Anatomy" src="resources/images/greys_anatomy.jpg"></a>
+                    <a href="movie.php?id=War+Horse" title="War Horse"><img class="hoverable" id="js-img-lazy" alt="War Horse" src="resources/images/war_horse.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail" style="">
-                    <a href="series.php?id=the%20walking%20dead" title="The Walking Dead"><img class="hoverable" id="js-img-lazy" alt="The Walking Dead" src="resources/images/the_walking_dead.jpg"></a>
+                    <a href="movie.php?id=Frozen" title="Frozen"><img class="hoverable" id="js-img-lazy" alt="Frozen" src="resources/images/frozen.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail" style="">
-                    <a href="series.php?id=fear%20the%20walking%20dead" title="Fear The Walking Dead"><img class="hoverable" id="js-img-lazy" alt="Fear The Walking Dead" src="resources/images/fear_the_walking_dead.jpg"></a>
+                    <a href="movie.php?id=Precious+Cargo" title="Fear The Walking Dead"><img class="hoverable" id="js-img-lazy" alt="Precious Cargo" src="resources/images/precious_cargo.jpg"></a>
                 </div>
                 </li>
             </div>
@@ -144,27 +144,27 @@ _atrk_opts = { atrk_acct:"Nx8Wj1a0CM00Ux", domain:"watchitfree.me",dynamic: true
             <div class="thumbnail-display">
                 <li>
                 <div id="thumbnail">
-                    <a href="series.php?id=modern%20family" title="Modern Family"><img class="hoverable" id="js-img-lazy" alt="Modern Family" src="resources/images/modern_family.jpg"></a>
+                    <a href="movie.php?id=The+Avengers" title="The Avengers"><img class="hoverable" id="js-img-lazy" alt="The Avengers" src="resources/images/the_avengers.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail">
-                    <a href="series.php?id=game%20of%20thrones" title="Game Of Thrones"><img class="hoverable" id="js-img-lazy" alt="Game Of Thrones" src="resources/images/game_of_thrones.jpg"></a>
+                    <a href="movie.php?id=127+Hours" title="127 Hours"><img class="hoverable" id="js-img-lazy" alt="127 Hours" src="resources/images/127_hours.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail">
-                    <a href="series.php?id=grey%27s%20anatomy" title="Grey's Anatomy"><img class="hoverable" id="js-img-lazy" alt="Grey's Anatomy" src="resources/images/greys_anatomy.jpg"></a>
+                    <a href="movie.php?id=War+Horse" title="War Horse"><img class="hoverable" id="js-img-lazy" alt="War Horse" src="resources/images/war_horse.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail" style="">
-                    <a href="series.php?id=the%20walking%20dead" title="The Walking Dead"><img class="hoverable" id="js-img-lazy" alt="The Walking Dead" src="resources/images/the_walking_dead.jpg"></a>
+                    <a href="movie.php?id=Frozen" title="Frozen"><img class="hoverable" id="js-img-lazy" alt="Frozen" src="resources/images/frozen.jpg"></a>
                 </div>
                 </li>
                 <li>
                 <div id="thumbnail" style="">
-                    <a href="series.php?id=fear%20the%20walking%20dead" title="Fear The Walking Dead"><img class="hoverable" id="js-img-lazy" alt="Fear The Walking Dead" src="resources/images/fear_the_walking_dead.jpg"></a>
+                    <a href="movie.php?id=Precious+Cargo" title="Fear The Walking Dead"><img class="hoverable" id="js-img-lazy" alt="Precious Cargo" src="resources/images/precious_cargo.jpg"></a>
                 </div>
                 </li>
             </div>
