@@ -1,0 +1,104 @@
+/******************************************************************
+Main CSS
+******************************************************************/
+div#search {
+    display: inline-block;
+    width: auto;
+    float: right;
+    font-family:Verdana;
+    font-weight: normal;
+    font-size: 15px;
+    margin-top: 4px;
+    overflow: visible;
+    z-index: 20;
+}
+
+div.search_icon {
+    float: left;
+    width: 31px;
+    height: 30px;
+    border:1px dotted white;
+}
+div.search_icon:hover {
+    background-position: 0px -30px;
+    cursor: pointer;
+}
+div.search-icon{
+    width: auto;
+    height: auto;
+    max-height: 38px;
+    float: right;
+}
+div.search-icon p{
+    color: white;
+    font-weight: bold;
+    float: left;
+    font-size: 15px;
+    margin-top: 7px;
+}
+input#search {
+    width: 340px;
+    height: 25px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    outline: none !important;
+    font-size: 15px;
+    line-height: 25px;
+    background-color: #FFFFFF;
+    float: right;
+    padding-left: 5px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+input#search:hover {
+    outline: none !important;
+    color: #3b3b3b;
+
+    /*-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25) inset, 0 1px 0 rgba(255, 255, 255, 1);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25) inset, 0 1px 0 rgba(255, 255, 255, 1);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25) inset, 0 1px 0 rgba(255, 255, 255, 1);*/
+}
+h4#results-text {
+    display: none;
+}
+ul#results {
+    display: none;
+    width: 340px;
+    margin-top: 15px;
+    padding-top: 10px;
+    border: 1px solid #ababab;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: rgba(0, 0, 0, .15) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,.15) 0 1px 3px;
+    box-shadow: rgba(0, 0, 0, .15) 0 1px 3px;
+    font-size: 15px;
+    z-index: 10;
+
+}
+
+ul#results li {
+    padding: 8px 8px 8px 5px;
+    cursor: pointer;
+    border-top: 1px solid #cdcdcd;
+    background-color: #F7F7F7;
+    font-size: 15px;
+}
+ul#results li:hover {
+    background-color: #F7F7F7;
+}
+ul#results li:first-child {
+   /* border-top: none;*/
+}
+ul#results li h3, ul#results li h4 {
+    color: #616161;
+    line-height: 1.2em;
+    text-align: left;
+}
+ul#results li:hover h3, ul#results li:hover h4  {
+    color: #3b3b3b;
+}
