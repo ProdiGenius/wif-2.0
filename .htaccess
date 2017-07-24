@@ -1,10 +1,10 @@
 ErrorDocument 404 /errormessages/404.php
 
 RewriteEngine on
-#RewriteCond %{HTTP_HOST} !^www\.
-#RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
-RewriteCond %{HTTP_HOST} !^www.watchitfree.me$ [NC]
-RewriteRule ^(.*)$ http://www.watchitfree.me/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+#RewriteCond %{HTTP_HOST} !^www.watchitfree.me$ [NC]
+#RewriteRule ^(.*)$ http://www.watchitfree.me/$1 [L,R=301]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
