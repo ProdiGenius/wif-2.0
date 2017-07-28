@@ -172,7 +172,7 @@ _atrk_opts = { atrk_acct:"Nx8Wj1a0CM00Ux", domain:"watchitfree.me",dynamic: true
 <?php 
 
 
-            $table_list = "select title from `#!movietitle_list` order by id limit 30";
+            $table_list = "select title from `#!movietitle_list` order by created desc limit 30";
 
             $rs = mysqli_query($conn, $table_list);
 
