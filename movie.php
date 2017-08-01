@@ -30,7 +30,7 @@ include 'datalogin.php';
 ?>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
-<link rel="stylesheet" type="text/css" href="css/style2.css"/>
+<!--<link rel="stylesheet" type="text/css" href="css/style2.css"/>-->
 <link rel='stylesheet' type='text/css' href='css/style3.css'/>
 <link rel='stylesheet' type='text/css' href='css/movie_styles.css'/>
 <link rel="stylesheet" type="text/css" href="css/search.css" media="screen"/>
