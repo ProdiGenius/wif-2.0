@@ -34,6 +34,7 @@ include 'datalogin.php';
 <link rel='stylesheet' type='text/css' href='css/style3.css'/>
 <link rel='stylesheet' type='text/css' href='css/movie_styles.css'/>
 <link rel="stylesheet" type="text/css" href="css/search.css" media="screen"/>
+<script src="js/jquery-1.11.1.min.js"></script>
 
 </head>
 <body>
