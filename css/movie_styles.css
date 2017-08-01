@@ -43,6 +43,11 @@
     height: 135px;
     width: 88px;
     padding-bottom: 5px;
+    transition: all .2s ease-in-out;
+}
+#thumbnail:hover{
+    transform: scale(1.04);
+    cursor: pointer;
 }
 #thumbnail-box{
     display: block;
