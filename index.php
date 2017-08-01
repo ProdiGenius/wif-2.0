@@ -9,6 +9,7 @@
     include 'datalogin.php';
 ?>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" type="text/css" href="css/style2.css"/>
 <link rel='stylesheet' type='text/css' href='css/style3.css'/>
@@ -38,7 +39,7 @@ _atrk_opts = { atrk_acct:"Nx8Wj1a0CM00Ux", domain:"watchitfree.me",dynamic: true
 <div id="menu">
     <div id="menu-top">
         <ul id="topnav">
-            <li><a href="http://www.watchitfree.me">Home</a></li>
+            <li><a href="https://www.watchitfree.me">Home</a></li>
             <li><a href="new_link.php">Upload Movies</a></li>
             <li><a href="#">Tv-Shows (coming soon)</a></li>
             <li><a href="sort.php?sort=alpha">Movies</a></li>
