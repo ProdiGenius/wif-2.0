@@ -53,7 +53,7 @@ include 'datalogin.php';
 <div id="menu">
     <div id="menu-top">
         <ul id="topnav">
-            <li><a href="http://www.watchitfree.me">Home</a></li>
+            <li><a href="https://www.watchitfree.me">Home</a></li>
             <li><a href="new_link.php">Upload Movies</a></li>
             <li><a href="#">Tv-Shows (coming soon)</a></li>
             <li><a href="sort.php?sort=alpha">Movies</a></li>
@@ -190,8 +190,8 @@ include 'datalogin.php';
                 while ($row = mysqli_fetch_assoc($retval)) {
                     echo ('
                     <tr>
-                        <td><span><img src="resources/images/unknown.png" style="vertical-align:middle;" height="16px"><a href="video.php?name='.$name.'&id='.$row["id"].'">'.$row["host"].'</span></td>
-                        <td><a href="video.php?name='.$name.'&id='.$row["id"].'">Watch This Video!</a></td>
+                        <td><span><img src="resources/images/unknown.png" style="vertical-align:middle;" height="16px"><a href="http://www.watchitfree.me/video.php?name='.$name.'&id='.$row["id"].'">'.$row["host"].'</span></td>
+                        <td><a href="http://www.watchitfree.me/video.php?name='.$name.'&id='.$row["id"].'">Watch This Video!</a></td>
                         <td>'.$row["created"].'</td>
                     </tr>
                     ');
